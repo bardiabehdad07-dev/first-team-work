@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"name": "quera-course",
+		"path": "../../Downloads/quera-course"
+	},
+	{
+		"name": "sign up form",
+		"path": "D:/quera-course/HomeWorks/sign up form"
+	},
+	{
+		"name": "VS tests",
+		"path": "D:/quera-course/VS tests"
+	},
+	{
+		"path": "D:/JavaScriptLearning"
+	},
+	{
+		"path": "D:/gitpractice"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "gitpractice"
+  }
+}
